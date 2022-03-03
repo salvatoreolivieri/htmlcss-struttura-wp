@@ -3,3 +3,42 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body{
+  width: 80%;
+  margin: 0 auto;
+}
+
+
+/* 
+HEADER
+ */
+
+ header{
+   background-color: #E579E6;
+   height: 100px;
+   margin: 20px 0px;
+ }
+
+
+
+ /* 
+MAIN
+ */
+
+ main.hero-section{
+   background-color: #E1D679;
+ }
+
+ main.content-section{
+   background-color: #3086FF;
+ }
+
+
+ /* 
+FOOTER
+ */
+
+ footer{
+   background-color: #8800FF;
+ }
